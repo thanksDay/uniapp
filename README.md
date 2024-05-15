@@ -8,12 +8,12 @@
 > 设置里面搜索即可
 
 ### Chrome配置
+![image](https://github.com/thanksDay/uniapp/assets/133717963/080a599c-f3bb-4ef4-bbc0-8b0e4e10db9f)
 
-![1715680090712](image/README/1715680090712.png)
 
 ### 小程序运行配置
+![image](https://github.com/thanksDay/uniapp/assets/133717963/ce2fab50-e547-4bb9-a808-b18603752d63)
 
-![1715680156013](image/README/1715680156013.png)
 
 ## 遇到的问题
-![image](https://github.com/thanksDay/uniapp/assets/133717963/1a7d379a-fb5a-4e33-8bad-75015fb3671a)
+https://github.com/thanksDay/uniapp/blob/main/meeting_problems.md
