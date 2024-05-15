@@ -16,3 +16,4 @@
 ![1715680156013](image/README/1715680156013.png)
 
 ## 遇到的问题
+![image](https://github.com/thanksDay/uniapp/assets/133717963/1a7d379a-fb5a-4e33-8bad-75015fb3671a)
